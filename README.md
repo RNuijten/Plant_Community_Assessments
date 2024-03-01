@@ -1,2 +1,2 @@
 # Plant_Community_Assessments
-For scripts related to the article "Informing restoration success, from wildfire-impacted analogue sites, using RPAS-based plant community assessments". They will be available after the paper has been accepted.
+This repository contains Jupyter Notebooks for analysis and visualization related to the article "Informing reclamation success in forested landscapes using drone-based plant community assessments: Enhancing vegetation assessments and reference site selection". Please note that the scripts are currently tailored to our dataframes and need modifications to work with dataframes of different shapes, as well as with various column and index names.
