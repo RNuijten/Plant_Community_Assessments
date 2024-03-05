@@ -1,2 +1,2 @@
-# Plant_Community_Assessments
+# Plant Community Assessments
 This repository contains Jupyter Notebooks for analysis and visualization related to the article "Informing reclamation success in forested landscapes using drone-based plant community assessments: Enhancing vegetation assessments and reference site selection". Please note that the scripts are currently tailored to our dataframes and need modifications to work with dataframes of different shapes, as well as with various column and index names.
